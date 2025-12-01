@@ -22,7 +22,7 @@
 ## Установка
 
 ```bash
-git clone https://github.com/<your-username>/sys-health-check.git
+git clone https://github.com/SyntaxErrorGo/sys-health-check.git
 cd sys-health-check
 
 chmod +x install.sh sys-health-check.sh
